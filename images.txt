@@ -1,4 +1,4 @@
-nginx:v1.22
+redis
 
 
 
