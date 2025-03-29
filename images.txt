@@ -1,4 +1,6 @@
-redis
+docker.io/calico/pod2daemon-flexvol:v3.28.3
+docker.io/calico/typha:v3.28.3
+
 
 
 
